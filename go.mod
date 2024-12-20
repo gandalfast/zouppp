@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/asavie/xdp v0.3.4-0.20240826152323-67e5ba17320c
-	github.com/cilium/ebpf v0.16.0
+	github.com/cilium/ebpf v0.17.1
 	github.com/insomniacslk/dhcp v0.0.0-20240829085014-a3a4c1f04475
 	github.com/rs/zerolog v1.33.0
 	github.com/safchain/ethtool v0.5.9
@@ -19,6 +19,5 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.21 // indirect
 	github.com/u-root/uio v0.0.0-20240224005618-d2acac8f3701 // indirect
 	github.com/vishvananda/netns v0.0.5 // indirect
-	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f // indirect
 	golang.org/x/net v0.31.0 // indirect
 )
